@@ -4,5 +4,6 @@ lightgbm
 matplotlib
 shap
 joblib
-streamlit
+streamlit>=1.35.0
 scikit-learn
+altair<5.0.0
